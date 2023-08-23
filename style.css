@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+:root{
+    --bg: rgb(20, 220, 107);
+    --rang: #fff;
+    --size: 22px;
+}
+.navbar{
+    width: 100%;
+    height: 80px;
+    background: var(--bg);
+    color: var(--rang);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10%;
+}
+.nav__collection{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+}
+.nav__link{
+  text-decoration: none;
+  color: var(--rang);
+
+}
+.active{
+    color: #000;
+}
+.title{
+    color: var(--bg);
+    font-size: var(--size);
+}
+.banner{
+    width: 100%;
+    height: 600px;
+    background: #ddd;
+}
+ .home{
+    background: url("./8.\ Божья\ коровка.jpg") no-repeat center/cover;
+ }
+ .about{
+    background: url("./19.\ Самолеты.jpg") no-repeat center/cover;
+ }
+ 
+
+
+
+

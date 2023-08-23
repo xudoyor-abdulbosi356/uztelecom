@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.navbar{
+    width: 100%;
+    height: 30px;
+}
+.nav__collection{
+    display: flex;
+    list-style: none;
+    gap: 300px;
+  padding: 15px 50px;
+}
+.nav__link{
+    color: black;
+}
+.dav1{
+  width: 1500px;
+  height: 900px;
+   margin: 50px 0;
+  background: url("./photo_2023-08-15_06-40-27.jpg") no-repeat center/cover;
+}
+.Mac{
+    text-align: center;
+    color: #fff;
+    padding: 70px 0;
+}
+  .para{
+    text-align: center;
+    color: #fff;
+  }
+  .href{
+    text-align: center;
+    margin: 0 44%;
+    pad: 25px 0;
+  }
+.dav2{
+  width: 1500px;
+  height: 900px;
+   margin: 50px 0;
+  background: url("./photo_2023-08-15_06-40-21.jpg") no-repeat center/cover;
+}
+.Mac{
+    text-align: center;
+    color: #fff;
+    padding: 70px 0;
+}
+  .para{
+    text-align: center;
+    color: #fff;
+  }
+  .href{
+    text-align: center;
+    margin: 0 44%;
+    pad: 25px 0;
+  }
+.dav3{
+  width: 1500px;
+  height: 900px;
+   margin: 50px 0;
+  background: url("./photo_2023-08-15_06-40-24.jpg") no-repeat center/cover;
+}
+.Mac{
+    text-align: center;
+    color: #fff;
+    padding: 70px 0;
+}
+  .para{
+    text-align: center;
+    color: #fff;
+  }
+  .href{
+    text-align: center;
+    margin: 0 44%;
+    pad: 25px 0;
+  }
+.dav4{
+  width: 1500px;
+  height: 900px;
+   margin: 50px 0;
+  background: url("./photo_2023-08-15_06-40-18.jpg") no-repeat center/cover;
+}
+.Mac{
+    text-align: center;
+    color: #fff;
+    padding: 70px 0;
+}
+  .para{
+    text-align: center;
+    color: #fff;
+  }
+  .href{
+    text-align: center;
+    margin: 0 44%;
+    pad: 25px 0;
+  }
